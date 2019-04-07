@@ -1,0 +1,26 @@
+Starting to look at Babel in org-mode this morning https://orgmode.org/worg/org-contrib/babel/intro.html#library-of-babel
+
+A Babel tutorial?  http://howardism.org/Technical/Emacs/literate-programming-tutorial.html
+
+
+#+BEGIN_SRC emacs-lisp
+  (directory-files ".")
+#+END_SRC
+
+#+RESULTS:
+| . | .. | .abbrev_defs | .emacs | .emacs.bmk | .git | BudgetAndBills.org | ITGeneralist4_FixXML.xml | MindBody.org | PrivatePlanning.org | README.md | README.org | Ruby Projects.lnk | communications.org | gitBashOrg.bat | gitBashOrg.bat~ | gtdActionables.org | gtdActionables.org~ | jtdJournal.org | network.org | opportunities.org | org | test.yaml |
+
+
+#+BEGIN_SRC ruby
+  p "Hello World"
+#+END_SRC
+
+#+RESULTS:
+: Hello World
+
+#+BEGIN_SRC python
+ return "Hello World"
+#+END_SRC
+
+#+RESULTS:
+: Hello World
