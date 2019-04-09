@@ -8,7 +8,7 @@ Lisp:
 #+END_SRC
 
 #+RESULTS:
-| . | .. | .abbrev_defs | .emacs | .emacs.bmk | .git | BudgetAndBills.org | ITGeneralist4_FixXML.xml | MindBody.org | PrivatePlanning.org | README.md | README.org | Ruby Projects.lnk | communications.org | gitBashOrg.bat | gitBashOrg.bat~ | gtdActionables.org | gtdActionables.org~ | jtdJournal.org | network.org | opportunities.org | org | test.yaml |
+| . | .. | .git | babel.org | babel.org~ |
 
 Ruby:
 #+BEGIN_SRC ruby
@@ -25,3 +25,16 @@ Python:
 
 #+RESULTS:
 : Hello World
+
+Python:
+#+BEGIN_SRC python
+x = {'a': 1, 'b': 2}
+y = {'b': 3, 'c': 4}
+z = {**x, **y}
+return z
+return "Hello"
+#+END_SRC
+
+#+RESULTS:
+| a | : | 1 | b | : | 3 | c | : | 4 |
+
