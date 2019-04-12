@@ -38,3 +38,52 @@ return "Hello"
 #+RESULTS:
 | a | : | 1 | b | : | 3 | c | : | 4 |
 
+Python:
+#+BEGIN_SRC python
+#!/usr/bin/env python
+#! python3
+# name.py - Describe here...
+
+import logging
+
+logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s- %(message)s')
+
+logging.debug('Start of program')
+
+def fun():
+        # TODO: .....
+    pass
+
+def main():
+    fun()
+    logging.debug('End of program')
+if __name__ == '__main__':
+    main()
+#+END_SRC
+
+#+RESULTS:
+: None
+
+
+
+
+[[file:1%20PA8yUhgId2jyIrJULvNbvw.png]]
+
+Python:
+#+BEGIN_SRC python
+import json
+jd=json.dumps({
+   "name": "Foo Bar",
+   "age": 78,
+   "friends": ["Jane","John"],
+   "balance": 345.80,
+   "other_names":("Doe","Joe"),
+   "active":True,
+   "spouse":None
+}, sort_keys=True, indent=4)
+
+return jd
+#+END_SRC
+
+#+RESULTS:
+| active | : | true | age | : | 78 | balance | : | 345.8 | friends | : | (Jane John) | name | : | Foo Bar | other_names | : | (Doe Joe) | spouse | : | null |
