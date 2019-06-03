@@ -1,6 +1,8 @@
+** Code
 
+   (setq truncate-lines 'nil)  (setq truncate-lines 't)
 
-* Research on Technical Assistance and Home-shopping/Inventory for Seniors
+* Research on Technical Assistance and Home-shopping/Inventory for Seniors - By Ray
 
 Information sources from links Below
 
@@ -26,6 +28,9 @@ Image (c) lechatnoir/ Getty Images
 Consider that any senior today was born before 1950 and then consider all the technological gadgets that either didn’t exist or have changed greatly in the last 65 years. (Ever see or use a phone or a typewriter like the ones in the photo above, for instance?) Sometimes seniors need help with figuring things out and sometimes they just want help.
 
 Great business opportunities exist for the technological wizards who can go to people’s homes and show them how to do things from getting WiFi working on their tablets through getting their Smart TV configured.
+
+Below are potential devices that could be supported:
+
    - Computers
 
      - Needs router for wifi
@@ -75,7 +80,7 @@ Great business opportunities exist for the technological wizards who can go to p
 
    - Smart Home (recommended)
 
-
+Also Below are additional links for related and growth possibilities
 
 https://www.seniorliving.org/tech/
 
@@ -95,13 +100,34 @@ https://www.leadingage.org/join
 ** Home Shopping/Inventory Service
 
 
+
+https://www.goodhousekeeping.com/food-recipes/g26255008/best-grocery-shopping-list-apps/
+
+This List is based on the above link
+
+*** Inventory and Shopping Apps
+    - AnyList https://play.google.com/store/apps/details?id=com.purplecover.anylist
+    - Mealime https://play.google.com/store/apps/details?id=com.mealime
+    - Opt Up https://play.google.com/store/apps/details?id=com.kroger.mobile.healthyshopper
+    - Cozi Family Organizer https://play.google.com/store/apps/details?id=com.cozi.androidfree&hl=en_US
+    - Target https://play.google.com/store/apps/details?id=com.target.ui
+    - Yummly https://play.google.com/store/apps/details?id=com.yummly.android
+    - Amazon https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping
+
+https://www.outofmilk.com/ideas/barcode-scanner-app-usage/
+
+Also:
+Using your smartphone for shopping is becoming more and more advance with the array of application offerings out there. From online shopping, to instant paying and beyond, the world of mobile is single-handedly transforming the way that we research and purchase goods.
+
+
+
+
 https://www.groceryshoppingbusiness.com/how-to-make-216-a-day-shopping-for-seniors/
 
 
 This is from above link
 
-
-How to Make $216 a Day Shopping For Seniors
+*** How to Make $216 a Day Shopping For Seniors
 
 By Maggie Thurston
 
